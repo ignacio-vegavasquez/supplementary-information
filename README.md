@@ -12,8 +12,8 @@ they are sufficiently commented. They are not limited to calcium signaling analy
 but they were created considerating that data as an input.
 
 Both codes were used in the analysis of data in the article "RyR-mediated Ca2+ release elicited 
-by neuronal activity Induces nuclear Ca2+ signals, CREB phosphorylation and Npas4/RyR2 expression",
-pending of publication in PNAS.
+by neuronal activity Induces nuclear Ca2+ signals, CREB phosphorylation and Npas4/RyR2 expression"
+(https://www.pnas.org/content/118/33/e2102265118/)
 
 If more details are required for the use of any of them, please feel free to contact me:
 ignaciovega@ug.uchile.cl
