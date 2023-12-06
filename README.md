@@ -19,4 +19,4 @@ Both codes were used in the analysis of data in:
 
 
 If more details are required for the use of any of them, please feel free to contact me:
-ignaciovega@ug.uchile.cl
+ignaciovega@uchile.cl
