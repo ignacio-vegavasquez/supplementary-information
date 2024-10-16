@@ -133,3 +133,4 @@ for (i = 0; i < filename.length; i++) { // Loop through each file in the input d
 }
 print("All files have been processed"); // Notify user that all files have been processed successfully.
 IJ.freeMemory(); // Free up memory used by ImageJ after processing is complete.
+// Ignacio Vega Vasquez igvegvas@uni-wuerzburg.de
